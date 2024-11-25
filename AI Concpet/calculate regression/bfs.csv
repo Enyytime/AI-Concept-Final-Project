@@ -1,0 +1,31 @@
+No,Number of nodes,Time,Distance,Cities
+1,10,0.0000,15.19 km,City of London
+2,20,0.0017,32.39 km,City of London
+3,30,0.0010,49.92 km,City of London
+4,40,0.0020,62.69 km,City of London
+5,50,0.0050,77.45 km,City of London
+6,60,0.0030,90.93 km,City of London
+7,70,0.0045,108.34 km,City of London
+8,80,0.0064,121.91 km,City of London
+9,90,0.0085,135.67 km,City of London
+10,100,0.0103,149.31 km,City of London
+11,10,0.0000,30.66 km,Manchester
+12,20,0.0010,73.91 km,Manchester
+13,30,0.0015,135.09 km,Manchester
+14,40,0.0020,200.44 km,Manchester
+15,50,0.0033,224.68 km,Manchester
+16,60,0.0030,291.29 km,Manchester
+17,70,0.0040,356.62 km,Manchester
+18,80,0.0065,432.88 km,Manchester
+19,90,0.0085,514.32 km,Manchester
+20,100,0.0108,562.12 km,Manchester
+21,10,0.0000,52.57 km,Liverpool
+22,20,0.0010,92.32 km,Liverpool
+23,30,0.0017,132.17 km,Liverpool
+24,40,0.0015,180.98 km,Liverpool
+25,50,0.0040,238.91 km,Liverpool
+26,60,0.0035,280.39 km,Liverpool
+27,70,0.0045,336.80 km,Liverpool
+28,80,0.0086,393.86 km,Liverpool
+29,90,0.0080,446.24 km,Liverpool
+30,100,0.0091,498.64 km,Liverpool

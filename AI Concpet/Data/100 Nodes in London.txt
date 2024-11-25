@@ -1,0 +1,109 @@
+100 Nodes in London
+Optimized Route: Astronomer -> Amber Bar -> Hand & Shears Public House -> Old Red Cow -> Enoteca Rabezzana -> Karaoke Box -> Corney & Barrow, Unit 3, Stock Exch -> Bottlescrue -> Le Paris Grill -> Fox Fine Wines -> Bangers -> Dirty Dicks Public House -> Devonshire Terrace -> Enoteca -> Balls Brothers Wine Bar -> George Bar -> Babble City -> La Tasca -> Jamaica Wine House -> Davy's -> City Golf & Health Clubs -> Crab Tavern -> Hamilton Hall -> Corney & Barrow -> Kings Stores Public House -> Duke of Somerset -> East India Arms -> Salotto 31 -> Jamies St Mary At Hill -> Balls Brothers @ Minster Court -> Roma -> City Flogger -> Jamies -> Emperor Wine Bar -> Sammie's Bar, Basement & Ground -> Liberty Bounds -> Isis Bar -> Abbey -> Pause -> Bedales Wine Bar -> Brokers Wine Bar -> Craft Beer Co -> City Sports Pub and Grill -> Planet Of The Grapes -> Crosse Keys PH -> Davys, 1 Plantation Place -> Dirty Martini Monument -> Lloyds Club Limited -> Balls Brothers, Mark Lane -> Agenda -> Balls Brothers Austin Friars -> Corney & Barrow, Level 1, Unit 2 -> Searcys Bars @ GSM & D -> Piano Smithfield -> Punch Tavern -> Harry's Bar & Pizzeria -> Patch -> Club Ten, Grange St Pauls Hotel -> Magpie & Stump -> Balls Brothers Shoe Lane -> Kanaloa -> Inn of Court -> Corney & Barrow Wine Bars -> El Vino Co Ltd -> St Brides Foundation -> St Brides Tavern -> Jamie's Wine Bar and Restaurant -> Pegasus Bar -> Shaws Booksellers -> Silks Cocktail Bar,Grange St Pauls -> Quarter Jacks, Grange St Pauls Hotel -> Sky Bar, Grange St Pauls Hotel -> Loose Cannon -> Sir John Hawkshaw -> Cannick Tapps -> Planet of the Grapes Ltd -> Mermaid Theatre -> Rudd's -> Oyster Shed -> One Under Lime -> Number 25 -> Forge -> Forge Bar & Club -> Core -> Merchant House -> Goodman City Ltd -> Dirty Martini -> Pavilion End -> Balls Brothers Ltd -> City Boot -> Searcy`s, Stalls Bar, Level -1 -> Searcy`s Artiste`s Bar, Level - 1 -> Searcy's Theatre Bar, Level -1 -> Circle Bar, Level 0 -> Club Gascon -> Oriole -> Bishops Finger -> Corney & Barrow Wine Bar -> Harrild and Sons -> City of London Distillery -> Astronomer
+Optimized Distance: 44.83 km
+Simulated Annealing Time: 3.9706 seconds
+
+
+
+100 nodes in london second try
+
+Optimized Route: Astronomer -> City Sports Pub and Grill -> Abbey -> Jamies -> Emperor Wine Bar -> Sammie's Bar, Basement & Ground -> Inn of Court -> Corney & Barrow Wine Bars -> Balls Brothers Shoe Lane -> Kanaloa -> Bishops Finger -> Amber Bar -> Devonshire Terrace -> Dirty Dicks Public House -> Kings Stores Public House -> Hamilton Hall -> Corney & Barrow -> Bangers -> Crab Tavern -> Balls Brothers Austin Friars -> La Tasca -> Searcys Bars @ GSM & D -> Hand & Shears Public House -> Old Red Cow -> Enoteca Rabezzana -> Circle Bar, Level 0 -> Corney & Barrow, Level 1, Unit 2 -> Craft Beer Co -> Brokers Wine Bar -> Bedales Wine Bar -> Agenda -> Balls Brothers, Mark Lane -> Roma -> City Flogger -> Lloyds Club Limited -> Liberty Bounds -> Balls Brothers @ Minster Court -> Dirty Martini Monument -> Jamies St Mary At Hill -> Salotto 31 -> George Bar -> Babble City -> Le Paris Grill -> Quarter Jacks, Grange St Pauls Hotel -> Club Ten, Grange St Pauls Hotel -> Number 25 -> Jamaica Wine House -> Core -> Merchant House -> Planet of the Grapes Ltd -> Cannick Tapps -> Crosse Keys PH -> Planet Of The Grapes -> Loose Cannon -> Sir John Hawkshaw -> Forge -> Forge Bar & Club -> Patch -> Punch Tavern -> City of London Distillery -> El Vino Co Ltd -> Corney & Barrow Wine Bar -> Karaoke Box -> Club Gascon -> Oriole -> Pause -> One Under Lime -> City Golf & Health Clubs -> Davy's -> Magpie & Stump -> Harry's Bar & Pizzeria -> Shaws Booksellers -> Rudd's -> Mermaid Theatre -> Goodman City Ltd -> Fox Fine Wines -> Balls Brothers Wine Bar -> Enoteca -> Duke of Somerset -> Isis Bar -> East India Arms -> Davys, 1 Plantation Place -> Oyster Shed -> Pegasus Bar -> Jamie's Wine Bar and Restaurant -> St Brides Tavern -> St Brides Foundation -> Corney & Barrow, Unit 3, Stock Exch -> Balls Brothers Ltd -> City Boot -> Searcy`s, Stalls Bar, Level -1 -> Searcy's Theatre Bar, Level -1 -> Searcy`s Artiste`s Bar, Level - 1 -> Piano Smithfield -> Harrild and Sons -> Silks Cocktail Bar,Grange St Pauls -> Sky Bar, Grange St Pauls Hotel -> Pavilion End -> Dirty Martini -> Bottlescrue -> Astronomer
+Optimized Distance: 54.43 km
+Simulated Annealing Time: 3.0548 seconds
+
+500 nodes in london
+
+Optimized Route: The Anthologist -> Rudd's -> Sky Bar, Grange St Pauls Hotel -> Patch -> The Hung Drawn & Quartered -> Balls Brothers @ Minster Court -> The Centre Page -> The Lamb Tavern -> The Hydrant, Equitable House -> Cannick Tapps -> Steam Wine Bar -> The Walrus & The Carpenter PH -> The Hack & Hop -> Club Gascon -> Crab Tavern -> Dirty Martini Monument -> Loose Cannon -> City Boot -> Number 25 -> Williams Ale and Cider House -> East India Arms -> The English Wine and Spirit Co Ltd -> Magpie & Stump -> The Banker -> Karaoke Box -> Enoteca Rabezzana -> Williamsons Tavern -> Vertigo 42 -> Silks Cocktail Bar,Grange St Pauls -> Tokenhouse -> Dirty Martini -> Oyster Shed -> Craft Beer Co -> Balls Brothers Ltd -> Voltaire, Crowne Plaza Hotel -> Searcy`s, Stalls Bar, Level -1 -> Circle Bar, Level 0 -> Searcy`s Artiste`s Bar, Level - 1 -> Corney & Barrow Wine Bar -> Old Red Cow -> Quarter Jacks, Grange St Pauls Hotel -> The Still & Star -> Devonshire Terrace -> Brokers Wine Bar -> The Old Tea Warehouse -> The Crutched Friar -> Jamaica Wine House -> The Arbitrager -> Willys Wine Bar -> The Sterling -> Balls Brothers, Mark Lane -> Goodman City Ltd -> The Breakfast Club -> George Bar -> The Lord Aberconway -> Fox Fine Wines -> Wood Street Bar and Restaurant -> The Rack & Tenter -> Ye Olde Cock Tavern -> The Fable -> Kanaloa -> Jamie's Wine Bar and Restaurant -> Duke of Somerset -> The Drift -> Corney & Barrow -> We Are Bar -> Agenda -> The Pepys -> Zorita's Kitchen -> Davys, 1 Plantation Place -> Inn of Court -> Corney & Barrow Wine Bars -> St Brides Foundation -> Davy's -> Ye Olde Watling -> The Duke and Duchess -> The Saint -> Hand & Shears Public House -> Corney & Barrow, Unit 3, Stock Exch -> Balls Brothers Shoe Lane -> El Vino Co Ltd -> Tipperary -> The Cock & Woolpack -> Bedales Wine Bar -> The Three Lords -> The Fine Line -> The Olde Wine Shades -> The Cockpit -> The Grill on the Market -> Le Paris Grill -> The Sea Horse PH -> Searcy's Theatre Bar, Level -1 -> Hamilton Hall -> Roma -> Jamies St Mary At Hill -> Lloyds Club Limited -> Isis Bar -> Salotto 31 -> The Blackfriar -> La Tasca -> The Woodins Shades -> Dirty Dicks Public House -> One Under Lime -> The Alice -> Swingers -> Harry's Bar & Pizzeria -> Sir John Hawkshaw -> Merchant House -> The Old Doctor Butler's Head -> The Magpie -> Steam & Rye -> Babble City -> Kings Stores Public House -> Crosse Keys PH -> Ye Olde London -> The Bootlegger's Club Ltd -> The Gable -> The Four Sisters Townhouse -> City Flogger -> City Sports Pub and Grill -> Wine Lodge Public House -> The Monument Public House -> St Brides Tavern -> The Crown and Sugar Loaf -> City Golf & Health Clubs -> Planet of the Grapes Ltd -> Piano Smithfield -> Viaduct Tavern Public House -> Balls Brothers Austin Friars -> Searcys Bars @ GSM & D -> The St Barts Brewery -> Core -> The Fleetwood -> Amber Bar -> Corney & Barrow, Level 1, Unit 2 -> Pavilion End -> Bottlescrue -> The Bridewell Theatre -> Shaws Booksellers -> Mermaid Theatre -> Forge Bar & Club -> Forge -> Punch Tavern -> The Hoop & Grapes -> The Jugged Hare -> Bishops Finger -> Harrild and Sons -> Enoteca -> Balls Brothers Wine Bar -> Planet Of The Grapes -> Bangers -> The Old Bell Tavern -> Club Ten, Grange St Pauls Hotel -> Oriole -> The Butcher's Hook and Cleaver -> Pegasus Bar -> City of London Distillery -> Abbey -> Sammie's Bar, Basement & Ground -> The Swan PH -> The Sugarloaf -> The Paternoster -> The Pelt Trader, Arch 3 -> Vino & Vino -> The Minories Public House -> Jamies -> Emperor Wine Bar -> Pause -> Astronomer -> The Britannia Public House -> Liberty Bounds -> The Anthologist
+Optimized Distance: 195.14 km
+Simulated Annealing Time: 4.7351 seconds
+
+
+100 nodes in manchester
+
+Optimized Route: Bar Fringe -> Corbiere's Wine Bar -> Cask -> Dive Bar -> Beermoth -> Grosvenor Arms -> Bluebell Hotel -> Crumpsall Labour Club -> Crumpsall Constitutional Club -> Apsley Cottage -> Fac 251 -> Bar Pop -> Joshua Brooks -> Gorton Working Mens Club -> Active Lifestyles Centre -> Fifth -> HD -> Crown and Kettle -> Hangover Bar & Cafe -> Grafton Arms -> Antwerp House -> Gala Club Belle Vue -> Friendship Tavern -> Huntington Public House -> Hulme Hall Bar -> Gold Cup -> Hennigans Sports Bar -> Band on the Wall -> Embassy Club Leisure Bar -> Higher Blackley Conservative Club -> Alliance Inn -> Icon Bar -> Company -> Font Bar -> Baltic Cellar -> Cruz 101 -> Beat Street Manchester -> Britons Protection Pub -> Gas Lamp -> Baby Blue -> Ape And Apple -> Blue Brick Bar -> El Capo -> Circus Tavern -> Ark -> Comedy Store -> Courtyard -> Frog & Bucket Comedy Club -> Henry J Beans -> Common -> English Lounge -> Eagle Bar -> Copacabana -> Dusk Til Pawn -> Baby Platinum -> Alter Ego -> GAY -> Big Western Hotel -> Hardy's Well -> Dice Lounge -> Fiddlers Green -> Fletcher Moss -> Casa Italia -> Didsbury Golf Club -> Escape Bar -> Cringlewood Social Club -> Gala Club Wythenshawe -> Bar MCR -> Greenbrow Social -> Black Boy Hotel -> Barlow Croft -> Didsbury Sports Ground -> Bar 4 Eighty -> Duffy's Bar -> Jam Street Bar & Grill -> Carlton Social And Bowling Club -> Beilul Lounge -> Big Hands Bar -> B Lounge -> Afflecks & Brown -> Cord Bar -> Guilty by Association -> Crafty Pig -> Dry Bar -> Bradford Inn -> Bar 21 -> Derby Brewery Arms -> Blackdog Ballroom -> Egerton Inn -> GM Buses Whitehouse Club -> Cleveland Hotel -> 42nd Street -> Albert's Schloss -> Bannatyne Health Club -> Bar 8 -> Bar San Juan -> Irish Association Social Club -> Electrik -> Chorlton Cum Hardy Golf Club -> Bar Bibo -> Bar Fringe
+Optimized Distance: 203.46 km
+Simulated Annealing Time: 2.4059 seconds
+
+10 nodes in manchester
+
+Optimized Route: Alliance Inn -> Afflecks & Brown -> 42nd Street -> Albert's Schloss -> Ark -> Ape And Apple -> Alter Ego -> Apsley Cottage -> Active Lifestyles Centre -> Antwerp House -> Alliance Inn
+Optimized Distance: 15.05 km
+Simulated Annealing Time: 0.3738 seconds
+
+15 nodes in manchester
+
+Optimized Route: Alliance Inn -> Band on the Wall -> Afflecks & Brown -> B Lounge -> Albert's Schloss -> Ark -> 42nd Street -> Baltic Cellar -> Baby Blue -> Ape And Apple -> Alter Ego -> Baby Platinum -> Apsley Cottage -> Antwerp House -> Active Lifestyles Centre -> Alliance Inn
+Optimized Distance: 17.74 km
+Simulated Annealing Time: 0.4817 seconds
+
+20 nodes in manchester
+
+Optimized Route: Bar Bibo -> Bar 4 Eighty -> Bar 8 -> Baltic Cellar -> 42nd Street -> Albert's Schloss -> Bar 21 -> Band on the Wall -> Afflecks & Brown -> Baby Platinum -> Baby Blue -> Ape And Apple -> Alter Ego -> B Lounge -> Apsley Cottage -> Antwerp House -> Active Lifestyles Centre -> Ark -> Bannatyne Health Club -> Alliance Inn -> Bar Bibo
+Optimized Distance: 36.00 km
+Simulated Annealing Time: 0.5688 seconds
+
+25 nodes in manchester
+
+Optimized Route: Barlow Croft -> Bar San Juan -> Bar 4 Eighty -> Bar 8 -> Baby Blue -> Baltic Cellar -> Ape And Apple -> Baby Platinum -> Albert's Schloss -> Alter Ego -> Bar Pop -> Bar Fringe -> B Lounge -> Afflecks & Brown -> Alliance Inn -> Band on the Wall -> Bar 21 -> 42nd Street -> Bannatyne Health Club -> Ark -> Active Lifestyles Centre -> Apsley Cottage -> Antwerp House -> Bar Bibo -> Bar MCR -> Barlow Croft
+Optimized Distance: 53.85 km
+Simulated Annealing Time: 0.6733 seconds
+
+30 nodes in manchester
+
+Optimized Route: Bar MCR -> Bar Bibo -> Antwerp House -> Beilul Lounge -> Active Lifestyles Centre -> Apsley Cottage -> Baltic Cellar -> Beat Street Manchester -> Alter Ego -> 42nd Street -> Baby Blue -> Bannatyne Health Club -> Bar 8 -> Ape And Apple -> Beermoth -> Ark -> Albert's Schloss -> Bar Pop -> Baby Platinum -> Afflecks & Brown -> Bar 21 -> Band on the Wall -> Alliance Inn -> Bar Fringe -> B Lounge -> Big Hands Bar -> Big Western Hotel -> Bar 4 Eighty -> Bar San Juan -> Barlow Croft -> Bar MCR
+Optimized Distance: 59.96 km
+Simulated Annealing Time: 0.7646 seconds
+
+
+40 in manchester
+
+Optimized Route: Bar MCR -> Black Boy Hotel -> Bar Bibo -> Casa Italia -> Barlow Croft -> Antwerp House -> Beilul Lounge -> Active Lifestyles Centre -> Bar Pop -> Alter Ego -> Bannatyne Health Club -> Britons Protection Pub -> Beat Street Manchester -> Ape And Apple -> 42nd Street -> Baby Blue -> Albert's Schloss -> Cask -> Bar 8 -> Ark -> Blue Brick Bar -> Bar 21 -> Bar Fringe -> Band on the Wall -> Apsley Cottage -> B Lounge -> Bradford Inn -> Bluebell Hotel -> Alliance Inn -> Afflecks & Brown -> Blackdog Ballroom -> Beermoth -> Baltic Cellar -> Baby Platinum -> Big Hands Bar -> Big Western Hotel -> Carlton Social And Bowling Club -> Bar 4 Eighty -> Bar San Juan -> Chorlton Cum Hardy Golf Club -> Bar MCR
+Optimized Distance: 72.04 km
+Simulated Annealing Time: 1.2821 seconds
+
+60 Nodes in manchester
+
+Optimized Route: Bar MCR -> Bar Bibo -> Didsbury Golf Club -> Cringlewood Social Club -> Black Boy Hotel -> Bar San Juan -> Bar 4 Eighty -> Active Lifestyles Centre -> Blackdog Ballroom -> Afflecks & Brown -> B Lounge -> Blue Brick Bar -> Circus Tavern -> Bannatyne Health Club -> Beermoth -> Common -> Ape And Apple -> Baby Blue -> Baltic Cellar -> Bar 8 -> Courtyard -> Britons Protection Pub -> Beilul Lounge -> Antwerp House -> Carlton Social And Bowling Club -> Big Western Hotel -> Big Hands Bar -> Dive Bar -> Corbiere's Wine Bar -> Copacabana -> Bar 21 -> Comedy Store -> Cask -> Company -> 42nd Street -> Baby Platinum -> Ark -> Albert's Schloss -> Beat Street Manchester -> Alter Ego -> Cruz 101 -> Apsley Cottage -> Bar Pop -> Derby Brewery Arms -> Crumpsall Labour Club -> Crumpsall Constitutional Club -> Cleveland Hotel -> Bluebell Hotel -> Alliance Inn -> Bradford Inn -> Crown and Kettle -> Bar Fringe -> Cord Bar -> Crafty Pig -> Band on the Wall -> Dice Lounge -> Barlow Croft -> Casa Italia -> Didsbury Sports Ground -> Chorlton Cum Hardy Golf Club -> Bar MCR
+Optimized Distance: 114.36 km
+Simulated Annealing Time: 1.8286 seconds
+
+10 nodes in liverpool
+
+Optimized Route: Aintree And Fazakerley Working Mens -> Abbey Road Wine Bar -> All Saints Parochial Centre And Club -> Albany Hotel -> Atlantic -> Angels Vip -> Angels Paradise -> Ashdale Inn -> Afro Caribbean & Friends Lunch Club -> Aigburth Cricket Club -> Aintree And Fazakerley Working Mens
+Optimized Distance: 29.01 km
+Simulated Annealing Time: 0.3501 seconds
+
+15 nodes in liverpool
+
+Optimized Route: Bear And Staff -> Aigburth Cricket Club -> Ashdale Inn -> Afro Caribbean & Friends Lunch Club -> Baltic Bakehouse -> Bar Ca Va -> Angels Vip -> Angels Paradise -> Bar Coast -> Atlantic -> All Saints Parochial Centre And Club -> Beaconsfield Community Centre -> Albany Hotel -> Aintree And Fazakerley Working Mens -> Abbey Road Wine Bar -> Bear And Staff
+Optimized Distance: 39.63 km
+Simulated Annealing Time: 0.4269 seconds
+
+20 nodes in liverpool
+
+Optimized Route: Abbey Road Wine Bar -> Aintree And Fazakerley Working Mens -> Albany Hotel -> Atlantic -> Bar Coast -> Beehive -> Bier -> Baltic Bakehouse -> Berry & Rye -> Beauty Bazaar Harvey Nichols -> Bar Ca Va -> Angels Vip -> Angels Paradise -> Beaconsfield Community Centre -> All Saints Parochial Centre And Club -> Belmont Hotel -> Aigburth Cricket Club -> Afro Caribbean & Friends Lunch Club -> Ashdale Inn -> Bear And Staff -> Abbey Road Wine Bar
+Optimized Distance: 46.78 km
+Simulated Annealing Time: 0.5658 seconds
+
+30 nodes in liverpool
+
+Optimized Route: Aigburth Cricket Club -> Bleak House -> Black Lodge Brewing Co Ltd -> Baltic Bakehouse -> Bier -> Berry & Rye -> Angels Paradise -> Beehive -> Blarney Stone -> Blue Angel -> Blackburne Arms -> Brewdog -> Afro Caribbean & Friends Lunch Club -> Ashdale Inn -> Bar Ca Va -> Beauty Bazaar Harvey Nichols -> Angels Vip -> Bramley Moore -> Atlantic -> Bar Coast -> Beaconsfield Community Centre -> Albany Hotel -> Breeze Hotel -> Aintree And Fazakerley Working Mens -> British Railways Sports And Social C -> Abbey Road Wine Bar -> All Saints Parochial Centre And Club -> Belmont Hotel -> Brambles -> Bear And Staff -> Aigburth Cricket Club
+Optimized Distance: 57.75 km
+Simulated Annealing Time: 0.7277 seconds
+
+40 nodes in liverpool
+
+Optimized Route: Abbey Road Wine Bar -> All Saints Parochial Centre And Club -> Canon Public House -> Beaconsfield Community Centre -> Carisbrooke Hotel -> Albany Hotel -> Breeze Hotel -> Aintree And Fazakerley Working Mens -> British Railways Sports And Social C -> Belmont Hotel -> Berry & Rye -> Cabin Club -> Brownlow's -> Bar Ca Va -> Blarney Stone -> Bier -> Baltic Bakehouse -> Caledonia -> Black Lodge Brewing Co Ltd -> Beauty Bazaar Harvey Nichols -> Blue Angel -> Brewdog -> Blackburne Arms -> Carnarvon Castle -> Atlantic -> Bramley Moore -> Bar Coast -> Angels Paradise -> Angels Vip -> Beehive -> Afro Caribbean & Friends Lunch Club -> Bleak House -> Aigburth Cricket Club -> Ashdale Inn -> Brook House -> C A D W A Social Club -> Broadgreen Conservative Club -> C I Edwardian Association -> Brambles -> Bear And Staff -> Abbey Road Wine Bar
+Optimized Distance: 78.10 km
+Simulated Annealing Time: 1.2863 seconds
+
+150 nodes in liverpool
+
+Optimized Route: Beaconsfield Community Centre -> Carisbrooke Hotel -> Liver Vaults -> Chillies Cafe Bar -> Lee Valley Millennium Centre -> Gateacre Institute -> Bear And Staff -> C I Edwardian Association -> Clifton Arms -> Flat House -> Liverpool Provincial Club -> Baltic Bakehouse -> Beauty Bazaar Harvey Nichols -> Blackburne Arms -> Djangos Riff -> Mackenzies Whisky Bar -> Brownlow's -> Hardys Bar -> Herculaneum Bridge -> Constellations -> Di One KTV -> Durty Nellies -> Dr Duncans -> Lomax -> James Monro P H -> Liverpool Piccolino -> Jupiters Bar -> Lennons Bar -> Curzon Club -> Kozys -> Flanagans Apple -> Brook House -> Karma Bar -> Hillfoot Hotel -> Garston Woodcutters Social Club -> Cheshire Lines Club -> Derby Arms Hotel -> Dealers Arms -> Derby Hotel -> Garston Masonic Hall -> Garston Royal British Legion -> Green Park Hotel -> Kelly's Dispensary Public House -> Childwall Abbey Hotel -> Liverpool Naval Club -> Fur and Feather Social Club -> British Railways Sports And Social C -> Chicken World -> Dunny's Social Club -> Evergreen Social Club -> Abbey Road Wine Bar -> Dovecot Community and -> Holy Name Parochial Club And Centre -> Forresters Lodge -> Chepstow Castle -> Breeze Hotel -> Joey Orrys -> Aintree And Fazakerley Working Mens -> Harlech Castle -> Lister Hotel -> Genting Club (Liverpool) -> Garlands -> Club Cellar Bar -> Liverpool University Students Union -> Imagine -> Hub Bar and Kitchen -> Faculty Public House -> Berry & Rye -> Lago -> Magnet Bar -> Fly in The Loaf -> Beehive -> Heaven -> Angels Paradise -> Cavern Club -> Atlantic -> Bramley Moore -> G Bar -> Angels Vip -> City Wine Bar -> Eldonian Village Hall -> Eagle -> Liverpool F C Supporters Club -> Afro Caribbean & Friends Lunch Club -> Cock and Bottle -> Coffee House -> C A D W A Social Club -> Broadgreen Conservative Club -> Cask Micro Pub -> Franks Bar, 184-186 Smithdown Road, -> Fulwood Arms -> CHY Chinese Restaurant -> Lowlands West Derby Community Centre -> Elm House -> Albany Hotel -> Blarney Stone -> Ink Bar -> Black Lodge Brewing Co Ltd -> Lime Kiln (Lloyds No. 1) -> Cabin Club -> Caledonia -> Hanover Hotel -> envi -> Blue Angel -> Liverpool Cricket Club -> J D Wetherspoon (Airside) -> Loft Bar Bistro -> Heath Hall Sports and Social Club -> Dunnies (Speke) Social Club -> L M S Institute -> Glasshouse Hotel -> Belmont Hotel -> Claremont -> Canon Public House -> Crofts Social Club -> Leigh Arms -> Clock -> Ma Egerton's Stage Door -> Liverpool Masonic Hall -> Ashdale Inn -> Harvester Public House -> Aigburth Cricket Club -> Kabinett -> Cavern Pub -> Erics Live -> Kingdom -> Central -> Love and Rockets -> Foghertys -> Christ The King Parochial Club -> Highfield Social Club -> George Scott Snooker Club -> Brambles -> L1 KTV -> Flat Iron -> Bar Coast -> First National Wine Bar -> Brewdog -> Marlborough -> Heebie Jeebies -> Carnarvon Castle -> Bier -> Masquerade -> Corn Market Tavern -> Bar Ca Va -> Dreamers -> Chameleon Bar -> Bleak House -> Mango Wine Bar -> All Saints Parochial Centre And Club -> Beaconsfield Community Centre
+Optimized Distance: 343.40 km
+Simulated Annealing Time: 3.5650 seconds
+
+
+Optimized Route: Balls Brothers Shoe Lane -> Balls Brothers Ltd -> Babble City -> Balls Brothers Austin Friars -> Balls Brothers @ Minster Court -> Agenda -> Abbey -> Balls Brothers Wine Bar -> Astronomer -> Amber Bar -> Balls Brothers Shoe Lane
+Optimized Distance: 11.98 km
+Simulated Annealing Time: 0.4887 seconds
